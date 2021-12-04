@@ -6,7 +6,7 @@
 
 -  🍀 Translational Biotechnology is my major
 
--  💻 I'm learning Bioinformatics now
+-  💻 I'm learning bioinformatics now
 
 # Contact
 
