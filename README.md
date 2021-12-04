@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey!
 
-<!--
-**DZBohan/DZBohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  👋 I’m Bohan Daniel Zhang
 
-Here are some ideas to get you started:
+-  👨‍🎓 I'm a Student at University of Southern California
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  🍀 Translational Biotechnology is my major
+
+-  💻 I'm learning Bioinformatics now
+
+# Contact
+
+- zhangboh@usc.edu by e-mail
+
+- [Bohan Zhang](https://www.linkedin.com/in/bohan-zhang-a99137217/) on Linkedin 
+
+- bohandanielzhang on Instagram
+
+- danielfisherman on Wechat
