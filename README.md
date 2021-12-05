@@ -1,7 +1,6 @@
-# Hey!
+# Hey! 👋
 
-<img align="right" width="50%" src="https://github.com/DZBohan/DZBohan/blob/main/Photo.jpeg?raw=true">
-
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DZBohan&show_icons=true&theme=dracula&hide=stars,issuesa">
 
 -  👋 I’m Bohan Daniel Zhang
 
@@ -12,8 +11,6 @@
 -  💻 I'm learning bioinformatics now
 
 # Contact
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DZBohan&show_icons=true&theme=dracula&hide=stars,issuesa">
 
 - zhangboh@usc.edu by e-mail
 
