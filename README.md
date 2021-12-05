@@ -1,5 +1,8 @@
 # Hey!
 
+<img align="right" width="50%" src="https://github.com/DZBohan/DZBohan/blob/main/Photo.jpeg?raw=true">
+
+
 -  👋 I’m Bohan Daniel Zhang
 
 -  👨‍🎓 I'm a Student at University of Southern California
