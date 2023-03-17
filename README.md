@@ -1,6 +1,6 @@
 # Hey!
 
--  👋 I’m Bohan Daniel Zhang
+-  👋 I’m Bohan Zhang
 
 -  👨‍🎓 I'm a Student at University of Southern California
 
@@ -13,7 +13,3 @@
 - zhangboh@usc.edu by e-mail
 
 - [Bohan Zhang](https://www.linkedin.com/in/bohan-zhang-a99137217/) on Linkedin 
-
-- bohandanielzhang on Instagram
-
-- danielfisherman on Wechat
