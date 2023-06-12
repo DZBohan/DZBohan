@@ -2,11 +2,11 @@
 
 -  👋 I’m Bohan Zhang
 
--  👨‍🎓 I'm a Student at University of Southern California
+-  💻 I'm a Research Applied Bioinformatician
 
--  🍀 Translational Biotechnology is my major
+-  🏥 I'm working at Norris Cancer Center, Keck Medcine of USC
 
--  💻 I'm learning bioinformatics now
+-  👨‍🎓 I was a MS student at USC
 
 # Contact
 
