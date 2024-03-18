@@ -10,6 +10,6 @@
 
 # Contact
 
-- zhangboh@usc.edu by e-mail
+- bohanzh7@gmail.com by e-mail
 
 - [Bohan Zhang](https://www.linkedin.com/in/bohan-zhang-a99137217/) on Linkedin 
