@@ -2,11 +2,11 @@
 
 -  👋 I’m Bohan Zhang
 
--  💻 I'm a Research Applied Bioinformatician
+-  💻 I'm a Ph.D student at City of Hope
 
--  🏥 I'm working at Norris Cancer Center, Keck Medcine of USC
+-  🏥 I was a bioinformatician at USC Norris Cancer Center
 
--  👨‍🎓 I was a MS student at USC
+-  👨‍🎓 I was a MS student at USC studying bioinformatics
 
 # Contact
 
