@@ -2,11 +2,11 @@
 
 -  👋 I’m Bohan Zhang
 
--  💻 I'm a Ph.D student at City of Hope
+-  💻 I'm a Ph.D student at City of Hope studying computational biology
 
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
 
--  👨‍🎓 I was a MS student at USC studying biotech
+-  👨‍🎓 I was an MS student at USC studying biotech and bioinformatician
 
 # Contact
 
