@@ -6,7 +6,7 @@
 
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
 
--  👨‍🎓 I was an MS student at USC studying biotech and bioinformatician
+-  👨‍🎓 I was an MS student at USC studying biotech and bioinformatics
 
 # Contact
 
