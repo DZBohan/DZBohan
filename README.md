@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/xKRa4f8OO5jiw/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/xKRa4f8OO5jiw/giphy.gif" width="100">
 
 # Hey!
 
