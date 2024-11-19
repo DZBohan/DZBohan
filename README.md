@@ -2,9 +2,9 @@
 
 -  👋 I’m Bohan
 
-<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="70">
-
 -  💻 I'm a Ph.D student at City of Hope studying computational biology
+
+<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="65">
 
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
 
