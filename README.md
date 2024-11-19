@@ -6,7 +6,7 @@
 
 <img align='right' src="https://media.giphy.com/media/74ANHA013UFrGlNDZm/giphy.gif" width="70">
 
-<img align='right' src="https://media.giphy.com/media/XvggZ502KsRbgKaLdB/giphy.gif" width="65">
+<img align='right' src="https://media.giphy.com/media/XvggZ502KsRbgKaLdB/giphy.gif" width="62">
 
 <img align='right' src="https://media.giphy.com/media/k7NNPkMiV6N68u5anl/giphy.gif" width="80">
 
