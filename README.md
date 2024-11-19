@@ -1,14 +1,12 @@
-<img align='right' src="https://media.giphy.com/media/jN5ZMghlckSPjFGMSf/giphy.gif" width="65">
-
 # Hey! 
 
 -  👋 I’m Bohan
 
+<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="70">
+
 -  💻 I'm a Ph.D student at City of Hope studying computational biology
 
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
-
-<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="70">
 
 -  👨‍🎓 I was an MS student at USC studying biotech and bioinformatics
 
