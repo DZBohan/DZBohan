@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/XvggZ502KsRbgKaLdB/giphy.gif" width="62">
 
-<img align='right' src="https://media.giphy.com/media/k7NNPkMiV6N68u5anl/giphy.gif" width="80">
+<img align='right' src="https://media.giphy.com/media/VhIqP5yJCY6fonV6sF/giphy.gif" width="65">
 
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
 
