@@ -2,6 +2,8 @@
 
 # Hey! 
 
+<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="65">
+
 -  👋 I’m Bohan
 
 -  💻 I'm a Ph.D student at City of Hope studying computational biology
