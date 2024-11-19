@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/hWFSXzD6GgnSIxBTtn/giphy.gif" width="230">
+
 # Hey!
 
 -  👋 I’m Bohan Zhang
