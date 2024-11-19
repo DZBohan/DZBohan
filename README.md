@@ -8,9 +8,9 @@
 
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
 
--  👨‍🎓 I was an MS student at USC studying biotech and bioinformatics
+<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="70">
 
-<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="65">
+-  👨‍🎓 I was an MS student at USC studying biotech and bioinformatics
 
 # Contact
 
