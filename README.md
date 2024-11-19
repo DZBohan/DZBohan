@@ -1,8 +1,6 @@
-<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="65">
+<img align='right' src="https://media.giphy.com/media/jN5ZMghlckSPjFGMSf/giphy.gif" width="65">
 
 # Hey! 
-
-<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="65">
 
 -  👋 I’m Bohan
 
@@ -11,6 +9,8 @@
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
 
 -  👨‍🎓 I was an MS student at USC studying biotech and bioinformatics
+
+<img align='right' src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif" width="65">
 
 # Contact
 
