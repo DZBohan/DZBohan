@@ -4,11 +4,11 @@
 
 -  💻 I'm a Ph.D student at City of Hope studying computational biology
 
-<img align='right' src="https://media.giphy.com/media/cwjOB4JKx78hu3ANgo/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/cwjOB4JKx78hu3ANgo/giphy.gif" width="30">
 
-<img align='right' src="https://media.giphy.com/media/qEsxekoplHbEdjJ5Ec/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/qEsxekoplHbEdjJ5Ec/giphy.gif" width="30">
 
-<img align='right' src="https://media.giphy.com/media/FVyGT0XIOArLzcPPLN/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/FVyGT0XIOArLzcPPLN/giphy.gif" width="30">
 
 -  🏥 I was a bioinformatician at USC Norris Cancer Center
 
