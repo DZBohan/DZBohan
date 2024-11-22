@@ -1,6 +1,6 @@
 # Hey! 
 
--  👋 I’m Bohan
+-  👋 I’m dzbohan
 
 -  💻 I'm a Ph.D student at City of Hope studying computational biology
 
