@@ -12,6 +12,8 @@
 
 -  👨‍🎓 I was an MS student at USC studying biotech and bioinformatics
 
+-  🌼 I was a botanist studying Chrysanthemum
+
 # Contact
 
 - bohanzh7@gmail.com by e-mail
