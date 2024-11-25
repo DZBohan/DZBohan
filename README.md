@@ -1,6 +1,6 @@
 # Hey! I’m dzbohan 👋
 
--  💻 I'm a Ph.D student at City of Hope studying cancer biology
+-  💻 I'm a Ph.D student at City of Hope studying computational & cancer biology
 
 -  🏥 I was a bioinformatician working at USC Norris Cancer Center
 
