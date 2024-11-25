@@ -12,8 +12,6 @@
 
 -  🌼 I was a botanist and horticulturist studying Chrysanthemum
 
--  ⛩️ I was a landscape architect
-
 # Contact
 
 - bohanzh7@gmail.com by e-mail
