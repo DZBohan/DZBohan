@@ -2,7 +2,7 @@
 
 -  💻 I'm a Ph.D student at City of Hope studying computational & cancer biology
 
--  🏥 I was a bioinformatician working at USC Norris Cancer Center
+-  🏥 I was a bioinformatician at USC Norris Comprehensive Cancer Center
 
 <img align='right' src="https://media.giphy.com/media/cwjOB4JKx78hu3ANgo/giphy.gif" width="45">
 
