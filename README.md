@@ -1,4 +1,4 @@
-# Hey! I’m dzbohan 👋
+# Hey! I’m DZBohan 👋
 
 -  💻 I'm a Ph.D student at City of Hope studying computational & cancer biology
 
