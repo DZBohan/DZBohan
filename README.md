@@ -10,8 +10,6 @@
 
 <img align='right' src="https://media.giphy.com/media/FVyGT0XIOArLzcPPLN/giphy.gif" width="45">
 
--  🌼 I was a botanist and horticulturist studying Chrysanthemum
-
 # Contact
 
 - bohanzh7@gmail.com by e-mail
