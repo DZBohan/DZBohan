@@ -4,11 +4,11 @@
 
 -  🏥 I was a bioinformatician at USC Norris Comprehensive Cancer Center
 
-# <img align='right' src="https://media.giphy.com/media/cwjOB4JKx78hu3ANgo/giphy.gif" width="45">
+ <img align='right' src="https://media.giphy.com/media/cwjOB4JKx78hu3ANgo/giphy.gif" width="45">
 
-# <img align='right' src="https://media.giphy.com/media/qEsxekoplHbEdjJ5Ec/giphy.gif" width="45">
+ <img align='right' src="https://media.giphy.com/media/qEsxekoplHbEdjJ5Ec/giphy.gif" width="45">
 
-# <img align='right' src="https://media.giphy.com/media/FVyGT0XIOArLzcPPLN/giphy.gif" width="45">
+ <img align='right' src="https://media.giphy.com/media/FVyGT0XIOArLzcPPLN/giphy.gif" width="45">
 
 # Contact
 
