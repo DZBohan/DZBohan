@@ -1,6 +1,8 @@
 # Hey! I’m DZBohan 👋
 
- <img align='right' src="https://64.media.tumblr.com/a3f76b4f3ac0632ee6da4f9b36caa1f4/fd918c7bea7b4c78-15/s1280x1920/990efc7c8e5eead6474e2066f9d4e9ff02d89be7.gifv" width="100">
+<img align='right' src="https://github.com/DZBohan/DZBohan/blob/main/dzbohan.png?raw=true" width="100">
+
+<img align='right' src="https://64.media.tumblr.com/a3f76b4f3ac0632ee6da4f9b36caa1f4/fd918c7bea7b4c78-15/s1280x1920/990efc7c8e5eead6474e2066f9d4e9ff02d89be7.gifv" width="100">
 
 -  💻 I'm a Ph.D student at City of Hope studying computational & cancer biology
 
